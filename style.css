@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.image{
+    background-image: url(undraw.png);
+    height: 130%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bin{
+    width: 20px;
+    height: 20px;
+}
